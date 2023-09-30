@@ -4,4 +4,4 @@
 csharp,
 nodejs,
 python,
-- Don't run Neural_Interface_Thanos.exe & DeepNet_Interface(caution).app even Malware don't recommend it. But if you do beware!
+- Don't run Neural_Interface_Thanos.exe & DeepNet_Interface(caution).app even malware scanners don't recommend it. But if you do beware!
